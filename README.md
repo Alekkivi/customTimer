@@ -8,21 +8,22 @@ This application is made for a Lab in Physiological Measurements and Sensors -co
 
 The `main.py` program is designed to control the various stages of the research experiment. It automates the timing of each phase, ensuring consistency and accuracy during data collection.
 
-### Key phases
-#### baseline muscle tone
+## Key phases
+
+### baseline muscle tone
 To measure muscle tone (EMG) the participant is instructed to stay still for 10 seconds
-<img src="/images/tonus.png" alt="Tonus image" width="200" height="200">
+<br> <img src="/images/tonus.png" alt="Tonus image" width="250" height="200">
 
-#### Squeeze 
+### Squeeze 
 To measure grip strenght the participant is instructed to squeeze for 5 seconds
-<img src="/images/squeeze.png" alt="Squeeze image" width="200" height="200">
+<br> <img src="/images/squeeze.png" alt="Squeeze image" width="250" height="200">
 
-#### Short rest 
+### Short rest 
 The participant is instructed to rest between squeezes
-<img src="/images/short_rest.png" alt="Squeeze image" width="200" height="200">
+<br> <img src="/images/short_rest.png" alt="Squeeze image" width="250" height="200">
 
-#### Long rest 
+### Long rest 
 The participant is instructed to rest between cycles
-<img src="/images/long_rest.png" alt="Squeeze image" width="200" height="200">
+<br> <img src="/images/long_rest.png" alt="Squeeze image" width="250" height="200">
 
 
