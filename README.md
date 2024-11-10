@@ -11,19 +11,19 @@ The `main.py` program is designed to control the various stages of the research 
 ## Key phases
 
 ### Baseline muscle tone
-To measure muscle tone (EMG) the participant is instructed to stay still for 10 seconds
 <br> <img src="/images/tonus.png" alt="Tonus image" width="280" height="200">
+To measure muscle tone (EMG) the participant is instructed to stay still for 10 seconds
 
 ### Squeeze 
-To measure grip strenght the participant is instructed to squeeze for 5 seconds
 <br> <img src="/images/squeeze.png" alt="Squeeze image" width="280" height="200">
+To measure grip strenght the participant is instructed to squeeze for 5 seconds
 
 ### Short rest 
-The participant is instructed to rest between squeezes
 <br> <img src="/images/short_rest.png" alt="Squeeze image" width="280" height="200">
+The participant is instructed to rest between squeezes
 
 ### Long rest 
-The participant is instructed to rest between cycles
 <br> <img src="/images/long_rest.png" alt="Squeeze image" width="280" height="200">
+The participant is instructed to rest between cycles
 
 
